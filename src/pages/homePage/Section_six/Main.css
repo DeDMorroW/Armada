@@ -1,0 +1,9 @@
+.section__six_row{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin: 100px 0;
+}
+.section__six{
+    border-bottom: 3px solid #bebebe;
+}

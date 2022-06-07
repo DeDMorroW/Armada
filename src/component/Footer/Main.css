@@ -1,0 +1,35 @@
+footer{
+    /* width: 1440px; */
+    width: 100%;
+    height: 324px;
+    background-color: #3e3e3e;
+}
+.footer__row{
+    /* width: 1440px; */
+    width: 100%;
+    display: flex;
+    margin: 50px auto;
+}
+.footer__first_block{
+    width: 240px;
+
+}
+.footer__second_block{
+    margin: 0 0 0 100px;
+}
+.footer__thirt_block{
+    width: 19%;
+    margin: 0 0 0 100px;
+}
+.footer__fourth_block{
+    margin: 0 0 0 100px;
+}
+.footer__title{
+    font-size: 16px;
+    color: #ffffff;
+}
+.footer__p{
+    font-size: 14px;
+    color: white;
+    opacity: 0.8;
+}

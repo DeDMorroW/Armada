@@ -1,0 +1,16 @@
+.section__four{
+    width: 100%;
+}
+.section__four_row{
+    width: 100%;
+    margin: 55px 0 90px 0;
+    display: flex;
+    justify-content: space-between;
+}
+.section__four_img{
+    width: 339px;
+    height: 300px;
+}
+.section__four{
+    border-bottom: 3px solid #bebebe;
+}

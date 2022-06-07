@@ -1,0 +1,33 @@
+.Service__section1{
+    margin: 88px 0 0;
+    border-bottom: 3px solid #bebebe;
+    border-top: 3px solid #bebebe;
+}
+.Service__section_main_block{
+    display: block;
+    width: 100%;
+    justify-content: space-between;
+    margin: 90px 0;
+}
+.Service__section_top_block{
+    display: flex;
+}
+.Service__section_top_block_img{
+    height: 650px;
+    width: 339px;
+}
+.Service__section_img{
+    width: 339px;
+}
+.Service__section_img_bottom{
+    width: 339px;
+    margin: 17px 0 0 0;
+}
+.Service__section_bottom_block{
+    display: flex;
+    justify-content: space-between;
+    margin: 17px 0 0 0;
+}
+.Service__section_bottom_block_img{
+    width: 710px;
+}

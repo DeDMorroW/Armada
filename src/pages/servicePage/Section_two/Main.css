@@ -1,0 +1,27 @@
+.service__section_top_block{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+}
+.service__column{
+    width: 28%;
+}
+.service__column_second{
+    width: 28%;
+    text-align: center;
+}
+.service__column_h1{
+    font-size: 20px;
+    font-weight: 400;
+}
+.service__column_first{
+    width: 23%;
+}
+.service__column_img{
+    display: flex;
+    margin: 0 auto;
+}
+.service__section_row{
+    width: 100%;
+    margin: 88px 0;
+}

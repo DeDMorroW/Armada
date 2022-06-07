@@ -1,0 +1,39 @@
+.section__contact{
+    border-top: 4px solid rgba(128, 128, 128, 0.486);    
+}
+#gmap__canvas {
+    width: 700px;
+    height: 600px;
+}
+.section__row{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+    margin: 60px auto;
+}
+.title{
+    font-size: 36px;
+    margin: 0 0 30px 0;
+}
+.section__line{
+    display: flex;
+    margin: 20px 0;
+}
+.icon{
+    margin: 21px 10px 0 0;
+    width: 24px;
+    height: 24px;
+}
+.section__column{
+    margin: 0 0; 
+}
+.section__column >h1{
+    color:#A4A4A4;
+    font-size: 24px;
+    font-family: 'Gilroy';
+}
+.section__column > p{
+    font-size: 14px;
+    width: 250px;
+    margin: 0;
+}
